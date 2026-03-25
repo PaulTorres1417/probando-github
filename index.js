@@ -1,11 +1,11 @@
 
-// mi primer push a github
+// mi priemra function y push a la ves es emocionante
 
 function holaMundo(name) {
     return 'hola' + '' + name;
 }
 
-const res = holaMundo(rocio);
+const res = holaMundo(rocio + "la mas hermosa");
 console.log(res);
 
 // nuevo funcionamiento git
