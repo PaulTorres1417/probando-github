@@ -5,8 +5,7 @@ function holaMundo(name) {
     return 'hola' + '' + name;
 }
 
-const res = holaMundo(rocio + "la mas hermosa");
-console.log(res);
+const resultado = holaMundo(rocio + "la mas hermosa");
 
 // nuevo funcionamiento git
 
