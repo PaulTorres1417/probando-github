@@ -12,3 +12,4 @@ const letras = 'los queremos mucho';
 
 // vamossssssssss
 const vamos = "tastingooo";
+const num = '900 396 718';
