@@ -16,3 +16,8 @@ function contarNumero(numero) {
 const respuesta = contarNumero(37);
 
 //proximo componente -->
+
+
+const resss2  = ' respuesta ramdon';
+const resss3 = ' respuesta ramdon';
+const resss5  = ' respuesta ramdon';
