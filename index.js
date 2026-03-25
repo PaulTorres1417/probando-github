@@ -1,8 +1,9 @@
 
 // mi priemra function y push a la ves es emocionante
 
-function holaMundo(name) {
-    return 'hola' + '' + name;
+function mostrarSaludo(name) {
+    const saludo = `Mi nombre es: ${name}`;
+    return saludo;
 }
 
 const resultado = holaMundo(rocio + "la mas hermosa");
