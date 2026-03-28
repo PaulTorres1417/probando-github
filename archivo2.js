@@ -19,3 +19,8 @@ function crearMensaje(mensaje) {
 }
 
 crearMoneda('hola como estas?');
+
+
+function oratoria() {
+    cosole.log("holissss")
+}
