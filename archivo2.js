@@ -14,8 +14,8 @@ function crearTarea(tarea) {
 
 crearTarea('hacer postre');
 
-function crearPost(post) {
-    console.log('creando post ' + post);
+function crearMensaje(mensaje) {
+    console.log('creando mensaje: ' + mensaje);
 }
 
-crearMoneda('esta mañana es magica');
+crearMoneda('hola como estas?');
