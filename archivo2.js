@@ -13,3 +13,9 @@ function crearTarea(tarea) {
 }
 
 crearTarea('hacer postre');
+
+function crearMoneda(moneda) {
+    console.log('creando moneda: ' + moneda);
+}
+
+crearMoneda('soles');
