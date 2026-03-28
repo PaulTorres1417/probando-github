@@ -14,11 +14,11 @@ function crearGithub(tarea) {
 
 crearGithub('repo 01');
 
-function crearMensaje(mensaje) {
-    console.log('creando mensaje: ' + mensaje);
+function crearPytom(mensaje) {
+    console.log('pytom creado: ' + mensaje);
 }
 
-crearMoneda('hola como estas?');
+crearPytom('lenguaje de programacion");
 
 
 function oratoria() {
