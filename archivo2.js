@@ -8,11 +8,11 @@ let name = "el castigador";
 let ahora = "por la vida horda y muchos mas!!!";
 
 
-function crearTarea(tarea) {
-    console.log(tarea + 'tarea creado');
+function crearGithub(tarea) {
+    console.log(tarea + ' github creado....');
 }
 
-crearTarea('hacer postre');
+crearGithub('repo 01');
 
 function crearMensaje(mensaje) {
     console.log('creando mensaje: ' + mensaje);
