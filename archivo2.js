@@ -8,19 +8,19 @@ let name = "el castigador";
 let ahora = "por la vida horda y muchos mas!!!";
 
 
-function crearGithub(tarea) {
-    console.log(tarea + ' github creado....');
+function trabajo1(trabajo) {
+    console.log(trabajo + 'trabajo1 creado');
 }
 
-crearGithub('repo 01');
+trabajo1('hacer postre');
 
-function crearPytom(mensaje) {
-    console.log('pytom creado: ' + mensaje);
+function trabajo2(trabajo) {
+    console.log(trabajo + "trabajo2 creado");
 }
 
-crearPytom('lenguaje de programacion");
+trabajo2('hola como estas?');
 
 
 function oratoria() {
-    cosole.log("holissss")
+    cosole.log("campanita....")
 }
